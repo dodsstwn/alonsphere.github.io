@@ -1,0 +1,37 @@
+@font-face
+{
+  font-family: 'Louis George Cafe Bold';
+  src: url('../font/Louis\ George\ Cafe\ Bold.ttf');
+}
+@font-face
+{
+  font-family: 'Louis George Cafe Bold Italic';
+  src: url('../font/Louis\ George\ Cafe\ Bold\ Italic.ttf');
+}
+
+#logo-alonsphere {
+  width: 550px;
+  height: 100px;
+  margin-top: 330px;
+}
+
+#jumbo {
+  margin-top: 10px;
+  background-image: url('../img/kocok.jpg');
+  background-size: 100%;
+}
+
+#tagline {
+  margin-top: 250px;
+  margin-bottom: 0;
+}
+
+#text-about {
+  color: black;
+  margin-top: 65px;
+}
+
+#text-catalogs {
+  margin-bottom: 38px;
+  color: white;
+}
